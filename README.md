@@ -1,5 +1,4 @@
 # basic-calculator
-Basic program
 Things used in this program :
 1) imported sys
 2) Took the inputs from user
