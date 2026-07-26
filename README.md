@@ -1,5 +1,4 @@
 # basic-calculator
-'''
 Basic program
 Things used in this program :
 1) imported sys
@@ -14,4 +13,3 @@ Things learnt from this program :
 1) Use of if-elif-else statement
 2) Using the 'or' operator
 3) import sys and using sys.exit()
-'''
