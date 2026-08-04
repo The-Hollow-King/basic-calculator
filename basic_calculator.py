@@ -10,7 +10,7 @@ if(q == "+" or q == "-") or (q == "/" or q == "*") or (q == "//" or q == "%"):
  print ("Appropriate operator is used")
 if(q == "+") :
  c = a + b
- print ("Answer :", c)
+ print ("Answer :", c) 
 if(q == "-") :
  c = a - b
  print ("Answer :", c)
@@ -18,7 +18,7 @@ elif(q == "/") :
  c = a / b
  print ("Answer :", c)
 elif(q == "*") :
- c = a * b
+ c = a * b 
  print ("Answer :", c)
 elif(q == "//") :
  c = a // b
