@@ -4,17 +4,17 @@ print("Welcome to basic calculator program") #welcome statement
 #creating two variables to accept and store numbers which would be entered by the user for the operation which they want to perform
 a = int(input("Enter the first number you want to use for an operation :"))
 b = int(input("Enter the second number :"))
-#creating a variable to accept the respective sign of the operation which the user wants to perform
-q = input("Input the sign of the operator you want to use for the operation(+ , - , / , * , // , %):")
+#creating a variable to accept the respective sign of the operation which the user wants to perform 
+q = input("Input the sign of the operator you want to use for the operation(+ , - , / , * , // , %):") 
 if(q == "+" or q == "-") or (q == "/" or q == "*") or (q == "//" or q == "%"):
  print ("Appropriate operator is used")
-if(q == "+") :
+if(q == "+") : 
  c = a + b
  print ("Answer :", c) 
-if(q == "-") :
+if(q == "-") : 
  c = a - b
  print ("Answer :", c)
-elif(q == "/") :
+elif(q == "/") : 
  c = a / b
  print ("Answer :", c)
 elif(q == "*") :
